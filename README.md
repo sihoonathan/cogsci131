@@ -1,5 +1,5 @@
 # cogsci131
-###### Computational Models of Cognition (CogSci 131-Fa19) taught by Prof. Piantadosi at UC Berkeley
+###### Computational Models of Cognition (CogSci 131-Sp19) taught by Prof. Piantadosi at UC Berkeley
 
 1. - [x] Finding the association between bell & food using the Rescorla-Wagner Model :+1:
 1. - [x] Path Integration :+1:
